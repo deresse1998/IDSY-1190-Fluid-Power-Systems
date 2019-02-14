@@ -139,6 +139,11 @@
     Discussion of Lab Trainer Exercise 21 Questions
     Discussion of Lesson 14 Exercise in Study Guide
     Assignment of Lesson 15 and Lesson 15 Exercise in Study Guide
-
+# 15 Reservoirs, Coolers and Filters
+    Review of Lesson 14 (optional)  
+    Presentation of lesson 15 videotape
+    Discussion of concepts, terminology and symbols
+    Discussion of Lesson 15 Execirse in Study Guide
+    Review for Courxe Final Exam (optional)
 
 
