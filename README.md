@@ -1,11 +1,11 @@
 # IDSY-1190-Fluid-Power-Systems
-Lesson Plan \n
-Introduction to Training Program \n
+# Lesson Plan 
+# Introduction to Training Program
   Description of Course Structure
   Administration of Course Per-Test
   Distribution of materdials
   Assignment of Lesson 1 and Lesson 1 Exercise in Study Guide
-1. The Physical World of a Machine
+# 1. The Physical World of a Machine
     Presentation of Lesson 1 
     Discussion of terminology and concepts
     Demonstration of physics principles related to hydraulic systems
