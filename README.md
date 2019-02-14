@@ -1,6 +1,6 @@
 # IDSY-1190-Fluid-Power-Systems
-Lesson Plan
-Introduction to Training Program
+Lesson Plan \n
+Introduction to Training Program \n
   Description of Course Structure
   Administration of Course Per-Test
   Distribution of materdials
