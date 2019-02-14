@@ -1,21 +1,25 @@
 # IDSY-1190
 # Introduction to Fluid Power Systems
-    # Lesson Plan 
+# Lesson Plan 
     Description of Course Structure
     Administration of Course Per-Test
     Distribution of materdials
     Assignment of Lesson 1 and Lesson 1 Exercise in Study Guide
 # 1. Industrial Safety
-    Presentation of wear approved PPE (Shoes, eye wear, hard hatds)
-    Mount a lock-out tag for use with a padlock.
-# 2. The Physical World of a Machine
-    Presentation of Lesson 1 
-    Discussion of terminology and concepts
-    Demonstration of physics principles related to hydraulic systems
-    (Review of basic math principles if required)
-    Discussion of Lesson 1 Exercise in Study Guide
-    Assignment of Lessson 2 and Lesson 2 Exercieses in Study Guide
-# 3. Hydraulic Transmission of Force and Energy
+    Presentation of Lesson 1
+    Discussion of wear approved PPE (Shoes, eye wear, hard hatds)
+    Demonstration of Mount a lock-out tag for use with a padlock.
+    
+# 2 Hydraulic System Principles 
+    Presentation of Lesson 2 
+    Define and discuss the basic hydraulic terms; Hydraulic, Force, Weight, Mass, Work, and Pressure.
+    Explain how hydraulic power is transmitted.
+    Discussion conservation of energy as it applies to a hydraulic system.
+    State the laws of physics that relate to hydraulic applications.
+    Explain how Force, Weight, Mass, and Pressure are used in the operation of hydraulic devices.
+    Assignment of Lessson 2 and Lesson 2 Exercieses in FESTO workbook
+    
+# 2.1 
     Review of Lesson 1 (optional)
     Presentation of Lesson 2 
     Discussion of Concepts, terminology and symbols
